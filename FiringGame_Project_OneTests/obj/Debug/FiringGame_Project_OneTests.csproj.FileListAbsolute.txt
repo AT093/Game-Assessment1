@@ -1,0 +1,34 @@
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_OneTests.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_OneTests.pdb
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.exe
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.pdb
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.exe.config
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csprojAssemblyReference.cache
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csproj.CoreCompileInputs.cache
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csproj.CopyComplete
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.dll
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.pdb
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_OneTests.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_OneTests.pdb
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.exe
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.pdb
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\FiringGame_Project_One.exe.config
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csprojAssemblyReference.cache
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.csproj.CopyComplete
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.dll
+C:\Users\Akshay\Downloads\FiringGame_Project_OneTests\obj\Debug\FiringGame_Project_OneTests.pdb
