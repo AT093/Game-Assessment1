@@ -1,0 +1,30 @@
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe.config
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.pdb
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csprojAssemblyReference.cache
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Form1.resources
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Properties.Resources.resources
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.GenerateResource.cache
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.CoreCompileInputs.cache
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.exe
+H:\2021 NZ\API\My\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.pdb
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe.config
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.pdb
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csprojAssemblyReference.cache
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Form1.resources
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Properties.Resources.resources
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.GenerateResource.cache
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.CoreCompileInputs.cache
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.exe
+I:\Downloads\FiringGame_Project_One (2)\FiringGame_Project_One\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.pdb
+C:\Users\Akshay\Downloads\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe.config
+C:\Users\Akshay\Downloads\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.exe
+C:\Users\Akshay\Downloads\FiringGame_Project_One\bin\Debug\FiringGame_Project_One.pdb
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csprojAssemblyReference.cache
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Form1.resources
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.Properties.Resources.resources
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.GenerateResource.cache
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.exe
+C:\Users\Akshay\Downloads\FiringGame_Project_One\obj\Debug\FiringGame_Project_One.pdb
